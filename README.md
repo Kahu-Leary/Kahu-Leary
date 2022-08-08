@@ -1,5 +1,9 @@
 ### Hi there 👋
+I'm Kahu Leary a passionate, hard working full stack developer, feeding off my 10 years of professional latin dance experience to provide structure in my work, a priority on clear open communication, and always eager to be a team player.
 
+I bring a light-hearted approach to my work, holding true to creative problem solving, time & project management, and a focus on a strong work ethic while under pressure.
+
+I am eager to look for a role that challenges my growth as a developer, a team that desires contribution, and a workplace that appreciates flexibility and character.
 <!--
 **Kahu-Leary/Kahu-Leary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
