@@ -1,5 +1,5 @@
 ### Hi I'm Kahu
-a passionate, hard working developer who can never have enough coffee
+a passionate, hard working developer.
 
 <!--
 **Kahu-Leary/Kahu-Leary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
